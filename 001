@@ -13,3 +13,8 @@ python manage.py createsuperuser
 用户名：admin
 密码：123456
 数据库sqlite
+
+2018/12/5 12：44
+基础功能实现
+JQUERY MOBILE 实现
+准备分页功能
