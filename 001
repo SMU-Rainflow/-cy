@@ -4,3 +4,12 @@
 写了两个视图函数
 正在准备四级考试和期末考试
 1：22上床休息
+
+
+2018/12/5 10:04
+没上课
+创建管理用户
+python manage.py createsuperuser
+用户名：admin
+密码：123456
+数据库sqlite
