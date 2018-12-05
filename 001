@@ -18,3 +18,10 @@ python manage.py createsuperuser
 基础功能实现
 JQUERY MOBILE 实现
 准备分页功能
+
+2018/12/6 0：35
+Jquery Mobile测试版已写出
+数据库查询与增加交互部分完成
+前端部分上传到服务器
+出现乱码
+
